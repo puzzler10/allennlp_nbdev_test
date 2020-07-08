@@ -1,10 +1,7 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "tagger": {
+    "Overview": "/",
+    "A NER tagger using AllenNLP ": "/NER_tagging",
+    "AllenNLP + nbdev test": "/index1"
   }
 }
